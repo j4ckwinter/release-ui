@@ -1,38 +1,38 @@
 [
-  {
-    "id": "1",
-    "summary": "Fix performance issues",
-    "gitBranch": "PROJECT-20535",
-    "priority": "Critical"
-  },
-  {
-    "id": "2",
-    "summary": "Develop new datepicker component",
-    "gitBranch": "PROJECT-20536",
-    "priority": "Blocker"
-  },
-  {
-    "id": "3",
-    "summary": "Implement new router library",
-    "gitBranch": "PROJECT-20537",
-    "priority": "Critical"
-  },
-  {
-    "id": "4",
-    "summary": "Remove legacy domain",
-    "gitBranch": "PROJECT-20538",
-    "priority": "Blocker"
-  },
-  {
-    "id": "6",
-    "summary": "Upgrade to latest react version",
-    "gitBranch": "PROJECT-20539",
-    "priority": "Critical"
-  },
-  {
-    "id": "7",
-    "summary": "Add to storybook to library",
-    "gitBranch": "PROJECT-20540",
-    "priority": "Blocker"
-  }
+	{
+		"id": "1",
+		"summary": "Fix performance issues",
+		"gitBranch": "PROJECT-20535",
+		"priority": "Critical"
+	},
+	{
+		"id": "2",
+		"summary": "Develop new datepicker component",
+		"gitBranch": "PROJECT-20536",
+		"priority": "Blocker"
+	},
+	{
+		"id": "3",
+		"summary": "Implement new router library",
+		"gitBranch": "PROJECT-20537",
+		"priority": "Critical"
+	},
+	{
+		"id": "4",
+		"summary": "Remove legacy domain",
+		"gitBranch": "PROJECT-20538",
+		"priority": "Blocker"
+	},
+	{
+		"id": "6",
+		"summary": "Upgrade to latest react version",
+		"gitBranch": "PROJECT-20539",
+		"priority": "Critical"
+	},
+	{
+		"id": "7",
+		"summary": "Add to storybook to library",
+		"gitBranch": "PROJECT-20540",
+		"priority": "Blocker"
+	}
 ]

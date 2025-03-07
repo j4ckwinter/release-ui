@@ -1,7 +1,9 @@
 # Svelte Issue Management App
+
 This application was built to help automate a boring task of performing a release process while delving deeper into Svelte. It allows users to manage and send selected issues (with their associated Git branches) to a backend API.
 
 ## Features
+
 - Fetches a list of issues from an API or mock data.
 - Allows users to select issues via checkboxes.
 - Sends selected issues (Git branches) to the backend.
