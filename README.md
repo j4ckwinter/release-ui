@@ -1,6 +1,8 @@
 # Svelte Issue Management App
 
-This application was built to help automate a boring task of performing a release process while delving deeper into Svelte. It allows users to manage and send selected issues (with their associated Git branches) to a backend API.
+This application was built to automate the repetitive release process while also exploring Svelte in depth. It enables users to manage and send selected issues, along with their associated Git branches, to a backend API.
+
+The app interacts with an API that retrieves tickets in the acceptance state from YouTrack, streamlining the release workflow.
 
 ## Features
 
